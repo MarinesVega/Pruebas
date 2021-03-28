@@ -15,6 +15,8 @@ Ahora quiero cambiar esta línea
 <<<<<<< HEAD
 que pasa si cambio esta línea localmente? y Qué pasa si cambio esta línea en la nube?
 
+prueba del correcto funcionamiento
+
 
 
  
