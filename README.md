@@ -12,5 +12,9 @@ Ahora quiero cambiar esta línea
  da
  ad
  das
-que pasa si cambio esta línea localmente?
+<<<<<<< HEAD
+que pasa si cambio esta línea localmente? y Qué pasa si cambio esta línea en la nube?
+
+
+
  
